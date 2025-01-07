@@ -27,9 +27,12 @@ li a {
   justify-content: right;
 }
 
+.container {
+	justify-content: center;
+}
 
 .container img {
-    margin: center;
+   float: center;
 }
 
 
