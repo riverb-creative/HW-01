@@ -27,7 +27,13 @@ li a {
   justify-content: right;
 }
 
+.container {
+    width: 200px;
+    height: 200px;
+}
+
 #container img {
+	width: 100px;
 	display: block;
 	margin: auto;
 }
