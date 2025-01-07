@@ -9,7 +9,7 @@ ul {
   background-color: #3f3f3f;
 }
 
-#id {
+li {
   float: right;
 }
 
@@ -21,6 +21,11 @@ li a {
 	display: block;
 	text-decoration: none;
 	padding: 15px;
+}
+
+#id {
+  display: flex;
+  justify-content: center;
 }
 
 img {
