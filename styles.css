@@ -26,14 +26,17 @@ li a {
 #menu {
   justify-content: right;
 }
+
 .container {
     width: 200px;
     height: 200px;
-    text-align: center;
+    background-color: #0a0a23;
 }
 
 .container img {
     width: 100px;
+    margin: auto;
+    display: block;
 }
 
 h1 {
