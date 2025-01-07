@@ -27,8 +27,10 @@ li a {
   justify-content: right;
 }
 
-img {
-
+#img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 h1 {
