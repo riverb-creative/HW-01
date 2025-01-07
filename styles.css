@@ -28,9 +28,7 @@ li a {
 }
 
 .container {
-    width: 200px;
-    height: 200px;
-    background-color: #0a0a23;
+   justify-content: center;
 }
 
 .container img {
